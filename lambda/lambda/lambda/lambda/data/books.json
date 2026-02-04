@@ -1,0 +1,14 @@
+[
+  {
+    "bookId": "1",
+    "title": "Atomic Habits",
+    "summary": "A guide to building good habits and productivity",
+    "genre": "Self Help"
+  },
+  {
+    "bookId": "2",
+    "title": "Deep Work",
+    "summary": "Focused success in a distracted world",
+    "genre": "Productivity"
+  }
+]
